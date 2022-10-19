@@ -1,0 +1,11 @@
+{
+  "name": "Site_Curriculo",
+  "version": "0.0.1",
+  "description": "Um curriculo em formato de um site",
+  "main": "index.js",
+  "author": "Mateus Oliveira Gil",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
